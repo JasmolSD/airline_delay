@@ -35,12 +35,14 @@ evaluation.*
 ---
 
 ## 📁 Repository Structure
-📦 project-root
+
+```
+📦 project-root/
 ├── Phase 3 – Final Report‑Team‑1‑3.ipynb # EDA + early modeling
 ├── Phase 3 – Final ‑ Team‑1‑3.ipynb # Final modeling notebook
 ├── 261 Team 1_3 Project Report Final.pptx # Slide deck
 └── README.md
-
+```
 ---
 
 ## 🛠 Tech Stack
